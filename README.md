@@ -220,11 +220,5 @@ python job_skill_pipeline/run_pipeline.py
 Contributions welcome — open issues or PRs. Consider adding a `LICENSE` file (e.g., MIT) if you plan to publish.
 
 ---
-If you'd like I can also:
-- add per-folder `README.md` files with focused instructions,
-- add a `CONTRIBUTING.md` and `LICENSE`, or
-- create a small SVG architecture diagram and commit it to the repo.
-=======
 
->>>>>>> 9e3396d4a3625ae3496287bdf8c97e025b638373
 
